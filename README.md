@@ -50,6 +50,6 @@ KPIs – Total Production, Average Yield, Cultivated Area
  ![ Power BI Dashboard](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/main/Screenshot%202025-09-15%20214429.png)
 # Interactive navigation:
 Each location icon on the map is clickable. Selecting a state icon automatically navigates to that state’s detailed dashboard, providing a focused view of its agricultural data, top crops, seasonal trends, and year-over-year performance.
-![ Top 10 States Dashboard](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/commit/e5d72292af7c335c2e01b3b25851324338bdb661#diff-dc886f61b0e499befa5f2486fecd469f133a5d91eb5dd7143ee2cc831f13d2e0)
+![ Top 10 States Dashboard](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/9ed33bf2a4d8a5b101cb696c3b62c6676c8380f2/Screenshot%202025-09-15%20223133.png)
 
 
