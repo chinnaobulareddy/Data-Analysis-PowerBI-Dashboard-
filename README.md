@@ -47,6 +47,8 @@ Here’s a set of **clear and professional insights** based on your screenshot:
 * **📊 Average Yield:**
 
   * The **average yield is 81.19** (tons per hectare), indicating overall good productivity with scope for improvement in certain regions
+
+![Alt Text] (https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/main/Screenshot%202025-09-15%20214453.png)
  
 
 
