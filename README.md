@@ -5,6 +5,7 @@ I built a comprehensive Power BI project focused on agricultural data analysis f
 # Project Overview
 This project analyzes agricultural production across Indian states and districts using a large dataset of crop production records. The interactive Power BI dashboard helps visualize key trends, top-performing states/crops, and year-over-year production patterns.
 The goal is to make agricultural insights easy to understand for policymakers, researchers, and students.
+
 # Power BI Dashboard Features 
 The dashboard provides interactive insights such as:
 State-wise and District-wise Production – Visual maps & bar charts
@@ -12,8 +13,6 @@ Top Crops – Identify top-performing crops per state
 Year-over-Year Analysis – See growth trends over time
 Seasonal Insights – Compare Kharif vs Rabi production
 KPIs – Total Production, Average Yield, Cultivated Area
-Absolutely! Based on your dataset (**1997–2020**), here’s a well-structured **Insights section** you can include in your README:
-Here’s a set of **clear and professional insights** based on your screenshot:
 
 ---
 
@@ -47,9 +46,8 @@ Here’s a set of **clear and professional insights** based on your screenshot:
 * **📊 Average Yield:**
 
   * The **average yield is 81.19** (tons per hectare), indicating overall good productivity with scope for improvement in certain regions
-
-![Power BI Dashboard](<img width="1726" height="965" alt="Screenshot 2025-09-15 214453" src="https://github.com/user-attachments/assets/b199091e-888d-4cd7-a57b-8521eae138f7" />
-)
+## Dashboard
+ ![ Power BI Dashboard](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/main/Screenshot%202025-09-15%20214429.png)
  
 
 
