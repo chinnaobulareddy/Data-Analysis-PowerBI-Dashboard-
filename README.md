@@ -70,3 +70,5 @@ Each location icon on the map is clickable. Selecting a state icon automatically
 ![ Andaman And Nicobar Islands](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/e5d72292af7c335c2e01b3b25851324338bdb661/Screenshot%202025-09-15%20223430.png)
 ## Maharastra
 ![ Maharastra ](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/e5d72292af7c335c2e01b3b25851324338bdb661/Screenshot%202025-09-15%20223448.png)
+
+--<a href="https://app.powerbi.com/groups/9081ad86-f292-485e-b0b6-1376ed2df7db/reports/b571c030-7f66-4c6b-925e-b8f95dc3182f/d5ab533d3c5b69c5dfec?experience=power-bi"> Dashboard in Power BI</a>
