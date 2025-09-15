@@ -66,3 +66,5 @@ Each location icon on the map is clickable. Selecting a state icon automatically
 ![ Assam](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/main/Screenshot%202025-09-15%20223347.png)
 ## Goa
 ![ Goa](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/e5d72292af7c335c2e01b3b25851324338bdb661/Screenshot%202025-09-15%20223414.png)
+## Andaman And Nicobar Islands
+![ Andaman And Nicobar Islands](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/e5d72292af7c335c2e01b3b25851324338bdb661/Screenshot%202025-09-15%20223430.png)
