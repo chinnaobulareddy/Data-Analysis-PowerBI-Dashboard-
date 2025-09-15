@@ -53,5 +53,5 @@ Each location icon on the map is clickable. Selecting a state icon automatically
 ![ Top 10 States Dashboard](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/9ed33bf2a4d8a5b101cb696c3b62c6676c8380f2/Screenshot%202025-09-15%20223133.png)
 ## Tamilnadu
 ![ Tamilnadu](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/e5d72292af7c335c2e01b3b25851324338bdb661/Screenshot%202025-09-15%20223159.png)
-
+![ Karnataka](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/e5d72292af7c335c2e01b3b25851324338bdb661/Screenshot%202025-09-15%20223219.png)
 
