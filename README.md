@@ -47,5 +47,6 @@ Here’s a set of **clear and professional insights** based on your screenshot:
 * **📊 Average Yield:**
 
   * The **average yield is 81.19** (tons per hectare), indicating overall good productivity with scope for improvement in certain regions
+ 
 
 
