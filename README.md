@@ -48,6 +48,7 @@ KPIs – Total Production, Average Yield, Cultivated Area
   * The **average yield is 81.19** (tons per hectare), indicating overall good productivity with scope for improvement in certain regions
 ## Dashboard
  ![ Power BI Dashboard](https://github.com/chinnaobulareddy/Data-Analysis-PowerBI-Dashboard-/blob/main/Screenshot%202025-09-15%20214429.png)
- ![ Power BI Dashboard](https://app.powerbi.com/groups/9081ad86-f292-485e-b0b6-1376ed2df7db/reports/b571c030-7f66-4c6b-925e-b8f95dc3182f/d5ab533d3c5b69c5dfec?experience=power-bi)
+# Interactive navigation:
+Each location icon on the map is clickable. Selecting a state icon automatically navigates to that state’s detailed dashboard, providing a focused view of its agricultural data, top crops, seasonal trends, and year-over-year performance.
 
 
