@@ -14,7 +14,6 @@ Year-over-Year Analysis – See growth trends over time
 Seasonal Insights – Compare Kharif vs Rabi production
 KPIs – Total Production, Average Yield, Cultivated Area
 
----
 
 ## 🔍 Key Insights from Dashboard (1997–2020)
 
